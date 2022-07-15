@@ -1,4 +1,22 @@
+About me Section
 ![image](https://user-images.githubusercontent.com/59704327/179180705-81030053-1b33-4360-bd33-0f5313cfc1e3.png)
+
+Experience Section
+![image](https://user-images.githubusercontent.com/59704327/179180890-cb33aef9-fadd-44eb-9d1f-a6ed6cf06f38.png)
+
+Portfolio Cards
+![image](https://user-images.githubusercontent.com/59704327/179181072-9c12960a-fff5-49e1-8716-1dce472958fc.png)
+
+Testimonial Carousel
+![image](https://user-images.githubusercontent.com/59704327/179181158-c5a619c6-fae4-43fa-9b24-efacf9c9709b.png)
+
+Contact Formular
+![image](https://user-images.githubusercontent.com/59704327/179181390-391f027e-caa0-49c9-8b9b-152b6d98e8b1.png)
+
+Footer
+![image](https://user-images.githubusercontent.com/59704327/179181429-593bc966-d53c-433e-8834-37b2526a7649.png)
+
+
 
 # Getting Started with Create React App
 
